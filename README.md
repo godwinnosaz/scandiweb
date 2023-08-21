@@ -7,11 +7,11 @@ The Add Product Page is a React component that allows users to add new products 
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/godwinnosaz/scandiweb
    ```
 2. Navigate to the project directory:
    ```
-   cd your-repo
+   cd scandiweb
    ```
 3. Install dependencies:
    ```
@@ -52,11 +52,11 @@ The Product List Page is a React component that displays a list of products from
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/godwinnosaz/scandiweb
    ```
 2. Navigate to the project directory:
    ```
-   cd your-repo
+   cd scandiweb
    ```
 3. Install dependencies:
    ```
@@ -88,5 +88,3 @@ Include screenshots or GIFs showcasing the Product List Page.
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize and expand these README templates based on your project's specific details. Providing clear instructions, usage examples, and any relevant details will help users understand and use your components effectively.
