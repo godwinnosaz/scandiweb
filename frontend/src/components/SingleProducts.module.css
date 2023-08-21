@@ -1,0 +1,9 @@
+.card {
+  border: 3px solid black;
+  padding: 0 0.5em 1.2em 0.5em;
+  width: 220px;
+}
+.card_item {
+  text-align: center;
+  font-size: 1.2em;
+}

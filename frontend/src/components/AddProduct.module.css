@@ -1,0 +1,54 @@
+.container {
+  padding: 1.5em 1.4em;
+}
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0px;
+}
+button {
+  padding: 0.8em;
+
+  border: 1px solid;
+  width: fit-content;
+  background-color: blue;
+  cursor: pointer;
+  color: white;
+  border-radius: 0.4em;
+  font-weight: 600;
+}
+
+.actionsButton {
+  display: flex;
+  margin-bottom: 0.4em;
+}
+form {
+  margin: 1.5em 0 0 0.3em;
+  width: 300px;
+}
+.cancelButton {
+  margin-left: 1.4em;
+  border: 2px solid;
+  background-color: red;
+  cursor: pointer;
+}
+input[type="text"],
+input[type="number"],
+select {
+  width: 280px;
+  margin: 0.3em 0;
+  padding: 0.5em;
+  outline: none;
+}
+.type_switcher {
+  margin-bottom: 1.2em;
+}
+span {
+  margin: 1.5em 0;
+  font-weight: bold;
+}
+.error {
+  color: red;
+  font-size: 1.1em;
+}
